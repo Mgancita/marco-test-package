@@ -3,7 +3,7 @@
 
 [![PyPI version](https://badge.fury.io/py/marco-test-package.svg)](https://badge.fury.io/py/marco-test-package)
 ![versions](https://img.shields.io/pypi/pyversions/marco-test-package.svg)
-[![GitHub license](https://img.shields.io/github/license/mgancita/marco_test_package.svg)](https://github.com/mgancita/marco_test_package/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/mgancita/marco-test-package.svg)](https://github.com/mgancita/marco-test-package/blob/main/LICENSE)
 
 
 
