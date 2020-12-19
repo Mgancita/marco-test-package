@@ -1,8 +1,8 @@
 # Marco test package
 
 
-[![PyPI version](https://badge.fury.io/py/marco_test_package.svg)](https://badge.fury.io/py/marco_test_package)
-![versions](https://img.shields.io/pypi/pyversions/marco_test_package.svg)
+[![PyPI version](https://badge.fury.io/py/marco-test-package.svg)](https://badge.fury.io/py/marco-test-package)
+![versions](https://img.shields.io/pypi/pyversions/marco-test-package.svg)
 [![GitHub license](https://img.shields.io/github/license/mgancita/marco_test_package.svg)](https://github.com/mgancita/marco_test_package/blob/main/LICENSE)
 
 
